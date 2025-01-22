@@ -1,4 +1,4 @@
-Za prvobitno preuzimanje repozitorijuma: 
+Za prvobitno preuzimanje repozitorijuma:
 git clone https://github.com/PetarUbavic/SensorBoardShield_Actuator
 Za pushovanje izmena na git repozitorijum:
 git add .
