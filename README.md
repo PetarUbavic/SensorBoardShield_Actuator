@@ -1,16 +1,8 @@
-# electronics
-PCBs in our Robots
-
-Here is how we design our folder structure:
-
-`project_name/`\
-|&nbsp;&nbsp;&nbsp;&nbsp;`output_job/`\
-|&nbsp;&nbsp;&nbsp;&nbsp;`pcb/`\
-|&nbsp;&nbsp;&nbsp;&nbsp;`schematic/`\
-|&nbsp;&nbsp;&nbsp;&nbsp;`project_name.PrjPcb`
-  
-Everything should be snake_case.
-
-Gitignore considerations:\
-https://electronics.stackexchange.com/questions/159220/which-files-to-version-control-for-an-altium-pcb-project
-https://www.allspice.io/post/git-for-altium
+Za prvobitno preuzimanje repozitorijuma: 
+git clone https://github.com/PetarUbavic/SensorBoardShield_Actuator
+Za pushovanje izmena na git repozitorijum:
+git add .
+git commit -m "Komentar o izmenama"
+git push
+Za skidanje promena koje je neko drugi uradio sa git repozitorijuma:
+git pull
