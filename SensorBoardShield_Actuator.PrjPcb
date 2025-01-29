@@ -240,6 +240,10 @@ ParamVariationCount=0
 Name=BezCap
 Value=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for SensorBoardShield_Actuator\Design Rule Check - SensorBoardShield_Actuator.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
