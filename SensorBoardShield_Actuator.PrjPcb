@@ -44,7 +44,6 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=Variant of SensorBoardShield_Actuator_1
 
 [Preferences]
 PrefsVaultGUID=
@@ -234,8 +233,7 @@ UniqueId=5a4f1755-c752-40c6-8f24-19abdb1c8cda
 Description=Variant of SensorBoardShield_Actuator_1
 AllowFabrication=0
 ParameterCount=1
-VariationCount=1
-Variation1=Designator=C2_7|UniqueId=\XFRJACFJ\RQLNJGST|Kind=0|AlternatePart=
+VariationCount=0
 ParamVariationCount=0
 
 [Parameter3_1]
